@@ -1,0 +1,8 @@
+# Ignore the env/ directory
+env/
+# Ignore all .pt files
+large-v3-turbo.pt
+large-v3.pt
+medium.pt
+small.pt
+base.pt
